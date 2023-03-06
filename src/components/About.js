@@ -27,7 +27,7 @@ const About = () => {
                         className='flex-1'>
                         <h2 className='h2 font-tertiary text-accent mt-2'>About me</h2>
                         <h3 className='h3 mb-4 font-secondary'>¡Hello there!, my name is Valentino Cambria, I am a FullStack JAVA developer</h3>
-                        <p>I have created individual and grupal proyects such as an event's page, a homebanking and an e-commerce page.
+                        <p>I have created individual and grupal projects such as an event's page, a homebanking and an e-commerce page.
                             <br/>
                             I have experience in HTML, CSS3, VUE.js, React.js, BOOTSTRAP, JAVASCRIPT, JAVA, SPRINGBOOT. 
                             As well as editing programs such as Photoshop, Adobe Illustrator and Sony Vegas.

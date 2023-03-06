@@ -17,7 +17,7 @@ const Banner = () => {
                         <span className='text-white mr-2'>I am a</span>
                         <TypeAnimation sequence={['Web', 900,'Developer!', 3000]} speed={50} className='text-accent' wrapper='span' repeat={Infinity} />
                     </motion.div>
-                        <motion.p variants={fadeIn('up', 0.5)} initial="hidden" whileInView={'show'} viewport={{once: false, amount: 0.7}} className='mb-8 max-w-lg mx-auto lg:mx-0'>Hi! Hope you are doing great, what you've encountered here is my personal portfolio, i've created it to share a little bit about myself so you can get to know me and my projects aswell.</motion.p>
+                        <motion.p variants={fadeIn('up', 0.5)} initial="hidden" whileInView={'show'} viewport={{once: false, amount: 0.7}} className='mb-8 max-w-lg mx-auto lg:mx-0'>Hi! Hope you are doing great, what you've encountered here is my personal portfolio, i've created it to share a little bit about myself so you can get to know me and my projects as well.</motion.p>
                         <motion.div variants={fadeIn('up', 0.6)} initial="hidden" whileInView={'show'} viewport={{once: false, amount: 0.7}} className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
                             <a href='#contact'>
                             <button className='btn font-secondary btn-lg'>Contact me</button>
